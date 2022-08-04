@@ -1,6 +1,6 @@
 # Jogo da Forca 
-<p>O jogo ainda não é 100% dinâmico, as vidas e a palavra da forca são estáticas, mas será atualizado logo. O atual funcionamento do jogo:
- <p> *Inicia com 6 vidas (pois a palavra secreta é abacaxi);
+<p>O jogo ainda não é 100% dinâmico, a palavra da forca é estática (abacaxi), mas será atualizado logo. O atual funcionamento do jogo:
+ <p> *Inicia com 6 vidas;
  <p> *Só é possivel uma letra por chute;
  <p> *Toda letra chutada é acrescentada a um array;
  <p> *Caso a letra esteja errada, -1 vida;
