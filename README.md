@@ -8,4 +8,4 @@
  <p> *Se a letra chutada ja foi chutada antes, nada acontece;
  <p> *O jogo termina assim que as vidas acabam ou a palavra esteja completa.
  
- <p>Projeto realizado entre os dias 19/07 e 24/07, após o entendimento do que deveria ser feito, o meu primeiro passo foi aprender o paradigma orientado a objetos no javascript, já que eu não tinha nenhuma experiência anterior. a sensação de completar o projeto foi totalmente empoderadora, algo que acrescentou muito no meu conhecimento e portifólio, sinto que dei um grande passo entendendo como funciona o paradigma orientado a objetos, a programação em geral se torna cada dia mais clara pra mim. 
+ <p>Projeto realizado entre os dias 19/07 e 24/07, após o entendimento do que deveria ser feito, o meu primeiro passo foi aprender o paradigma orientado a objetos no javascript, já que eu não tinha nenhuma experiência anterior. a sensação de completar o projeto foi totalmente empoderadora, algo que acrescentou muito no meu conhecimento e portifólio, sinto que dei um grande passo entendendo como funciona o paradigma, a programação em geral se torna cada dia mais clara pra mim. 
