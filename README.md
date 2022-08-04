@@ -15,3 +15,7 @@
 ```
 node desafio.js
 ```
+ 
+```
+npm start
+```
