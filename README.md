@@ -12,8 +12,5 @@
 
 <p>A execução do código se dá através dos comandos padrão 
 ```
-node desafio.js
-```
-```
-npm start
+teste
 ```
