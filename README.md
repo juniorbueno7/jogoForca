@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 # O desafio da forca
+=======
+# Jogo da Forca 
+<p>O jogo ainda não é 100% dinâmico, a palavra da forca é estática (abacaxi), mas será atualizado logo. O atual funcionamento do jogo:
+ <p> *Inicia com 6 vidas;
+ <p> *Só é possivel uma letra por chute;
+ <p> *Toda letra chutada é acrescentada a um array;
+ <p> *Caso a letra esteja errada, -1 vida;
+ <p> *Se a letra estiver certa, ela é substituida na sua respectiva posição;
+ <p> *Se a letra chutada ja foi chutada antes, nada acontece;
+ <p> *O jogo termina assim que as vidas acabam ou a palavra esteja completa.
+ 
+ <p>Projeto realizado entre os dias 19/07 e 24/07, após o entendimento do que deveria ser feito, o meu primeiro passo foi aprender o paradigma orientado a objetos no javascript, já que eu não tinha nenhuma experiência anterior. a sensação de completar o projeto foi totalmente empoderadora, algo que acrescentou muito no meu conhecimento e portifólio, sinto que dei um grande passo entendendo como funciona o paradigma, a programação em geral se torna cada dia mais clara pra mim. 
+>>>>>>> 437a2f9e5d48233ffbc9d459b1de9ed5ada78a75
 
 Olá! Você está prestes a iniciar o nosso desafio para a seleção do StartDB. Se você chegou aqui sem conhecer o StartDB, você pode encontrar mais informações [neste link](https://start.dbserver.com.br/). O desafio desse ano será desenvolver as regras de um jogo da forca. 
 Você conhece o jogo da forca?
